@@ -19,7 +19,7 @@ function Live2d() {
     #path;
     #config;
     defaultConfig = {
-      apiPath: "//api.zsq.im/live2d/",
+      apiPath: "https://live2d.fghrsh.net/api/",
       isTools: true,
       tools: ["hitokoto", "switch-model", "switch-texture", "photo", "info", "quit"],
       updateTime: "2022.12.09",
